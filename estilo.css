@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* Desarrollado por Javier Gonzalez */
+/* El 12/12/18                      */
+h1 {
+    font-size: 200%;
+    text-transform: capitalize;
+}
+body {
+    background-color: #2D8652;
+}
+p {
+    font-size: 150%;
+  }
+p.p1{
+    color: white;
+    font-style: oblique;
+}
+
+p.p2 {
+    color: #FFD48A;
+    font-family: sans-serif;
+}
+
+p.p3 {
+    color: #E59352;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+}
+p.p4{
+    color: white;
+    font-style: oblique;
+}
+p.p5 {
+    color: #E59352;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+}
+p.p6{
+    color: #E62D4F;
+    font-family: cursive;
+}
+p.p7 {
+    color: #FFD48A;
+    font-family: sans-serif;
+}
+p.p8 {
+    color: #E62D4F;
+    font-family: cursive;
+}
